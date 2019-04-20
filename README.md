@@ -10,7 +10,7 @@ All the submitted documents for evaluation.
 ## Iteration 2 submission
 [i2.tar](documentation/Spring2019/i2.tar)
 
-##Iteration 3 submission
+## Iteration 3 submission
 [i3.tar](documentation/Spring2019/i3.tar)
 
 # Code base
